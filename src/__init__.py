@@ -1,1 +1,1 @@
-""Tastehub API package."""
+"""Tastehub API package."""

@@ -4,6 +4,7 @@ version = "1.0.0"
 description = "Tastehub - REST API для управления заказами еды в ресторане"
 authors = ["Bambutcha <yagadanaga@yandex.ru>"]
 readme = "README.md"
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
